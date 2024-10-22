@@ -1,0 +1,4 @@
+checkOnSave = true
+
+[rustfmt]
+overrideCommand = ["leptosfmt", "--stdin", "--rustfmt"]
